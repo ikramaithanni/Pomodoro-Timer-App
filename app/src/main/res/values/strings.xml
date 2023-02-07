@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CountDowner</string>
+    <string name="firstOne">Waiting for you ...</string>
+    <string name="start">START</string>
+    <string name="reset"><u>Reset</u></string>
+    <string name="time">25:00</string>
+    <string name="keep">Keep going ...</string>
+</resources>
